@@ -30,3 +30,35 @@ c:\users\aram.avetisyan\documents\visual studio 2013\Projects\Interview\Intervie
 c:\users\aram.avetisyan\documents\visual studio 2013\Projects\Interview\Interview\obj\Debug\Interview.csprojResolveAssemblyReference.cache
 c:\users\aram.avetisyan\documents\visual studio 2013\Projects\Interview\Interview\obj\Debug\Interview.dll
 c:\users\aram.avetisyan\documents\visual studio 2013\Projects\Interview\Interview\obj\Debug\Interview.pdb
+D:\GitHub\Interview\Interview\bin\Interview.dll.config
+D:\GitHub\Interview\Interview\bin\Interview.dll
+D:\GitHub\Interview\Interview\bin\Interview.pdb
+D:\GitHub\Interview\Interview\bin\Antlr3.Runtime.dll
+D:\GitHub\Interview\Interview\bin\EntityFramework.dll
+D:\GitHub\Interview\Interview\bin\Microsoft.Web.Infrastructure.dll
+D:\GitHub\Interview\Interview\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\GitHub\Interview\Interview\bin\Newtonsoft.Json.dll
+D:\GitHub\Interview\Interview\bin\System.Net.Http.Formatting.dll
+D:\GitHub\Interview\Interview\bin\System.Web.Http.dll
+D:\GitHub\Interview\Interview\bin\System.Web.Http.WebHost.dll
+D:\GitHub\Interview\Interview\bin\System.Web.Mvc.dll
+D:\GitHub\Interview\Interview\bin\System.Web.Optimization.dll
+D:\GitHub\Interview\Interview\bin\System.Web.Providers.dll
+D:\GitHub\Interview\Interview\bin\System.Web.Razor.dll
+D:\GitHub\Interview\Interview\bin\System.Web.WebPages.Deployment.dll
+D:\GitHub\Interview\Interview\bin\System.Web.WebPages.dll
+D:\GitHub\Interview\Interview\bin\System.Web.WebPages.Razor.dll
+D:\GitHub\Interview\Interview\bin\WebGrease.dll
+D:\GitHub\Interview\Interview\bin\EntityFramework.xml
+D:\GitHub\Interview\Interview\bin\Newtonsoft.Json.xml
+D:\GitHub\Interview\Interview\bin\System.Net.Http.Formatting.xml
+D:\GitHub\Interview\Interview\bin\System.Web.Http.xml
+D:\GitHub\Interview\Interview\bin\System.Web.Http.WebHost.xml
+D:\GitHub\Interview\Interview\bin\System.Web.Mvc.xml
+D:\GitHub\Interview\Interview\bin\System.Web.Razor.xml
+D:\GitHub\Interview\Interview\bin\System.Web.WebPages.xml
+D:\GitHub\Interview\Interview\bin\System.Web.WebPages.Deployment.xml
+D:\GitHub\Interview\Interview\bin\System.Web.WebPages.Razor.xml
+D:\GitHub\Interview\Interview\obj\Debug\Interview.csprojResolveAssemblyReference.cache
+D:\GitHub\Interview\Interview\obj\Debug\Interview.dll
+D:\GitHub\Interview\Interview\obj\Debug\Interview.pdb
